@@ -1,0 +1,31 @@
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\bin\Debug\MiniBiblioteka.exe.config
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\bin\Debug\MiniBiblioteka.exe
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\bin\Debug\MiniBiblioteka.pdb
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.AssemblyReference.cache
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.Form1.resources
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.Properties.Resources.resources
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.GenerateResource.cache
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.exe
+C:\Users\Roch\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.pdb
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\bin\Debug\MiniBiblioteka.exe.config
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\bin\Debug\MiniBiblioteka.exe
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\bin\Debug\MiniBiblioteka.pdb
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.AssemblyReference.cache
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.Form1.resources
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.Properties.Resources.resources
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.GenerateResource.cache
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.exe
+C:\Users\ZTM 47C1\source\repos\MiniBiblioteka\MiniBiblioteka\obj\Debug\MiniBiblioteka.pdb
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\bin\Debug\MiniBiblioteka.exe.config
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\bin\Debug\MiniBiblioteka.exe
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\bin\Debug\MiniBiblioteka.pdb
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.AssemblyReference.cache
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.Form1.resources
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.Properties.Resources.resources
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.GenerateResource.cache
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.exe
+C:\Users\Roch\Documents\GitHub\Narzedia-Informatyki\MiniBiblioteka_RochMajkowski\MiniBiblioteka\obj\Debug\MiniBiblioteka.pdb
