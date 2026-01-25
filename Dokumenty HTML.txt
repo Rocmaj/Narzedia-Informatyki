@@ -1,0 +1,8 @@
+Dokumenty HTML
+Wszystkie dokumenty HTML zaczynają się od deklaracji <!DOCTYPE html>.
+Dokument HTML zaczyna się od <html> i kończy się z </html>
+Widoczne elementy dokumentu html są pomiędzy <body> i </body>
+
+Deklaracja <!DOCTYPE>
+<!DOCTYPE> deklaracja reprezentuje typ dokumentu i pomaga przeglądarkom wyświetlić strony internetowe poprawnie
+Może tylko pojawić się raz w dokumencie przed tagami HTML.
